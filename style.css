@@ -123,7 +123,7 @@ button {
   font-weight: var(--fw-bold);
 }
 
-.submit-button:hover {
+.submit-back:hover {
   background-color: var(--White);
 }
 
@@ -162,7 +162,7 @@ footer p {
 }
 
 footer a {
-  color: yellow;
+  color: hsl(228, 45%, 44%);
 }
 
 /* tablet: 768px-1023px */
